@@ -31,7 +31,7 @@ This is my path:
 4. **Project Manager:** Company management app for Real Estate (2023)
    - **Technology:** Flask, Python, PostgreSQL
 
-5. **Software Engineer:** Data analysis and integration app for the insurance sector (2024)
+5. **Software Engineer:** Data analysis and integration app for the insurance sector (current project as freelancer)
    - **Technology:** Python, PostgreSQL, FastAPI
 
 ## In Companies
@@ -88,18 +88,10 @@ This is my path:
 
 ### 🌟 Working on My Own Apps and Projects (updates in August 2024)
 
-1. **GenAI (ask for a demo)**
-   - **Technology:** GCP, Python, FastAPI, Next.js
-
-2. **CyberSecurity**
-   - **Technology:** Python, FastAPI, Next.js
-
-### 📅 Working on Content Creation About Project Management (updates in August 2024)
-
 1. **GenAI (Ask for a demo)**
    - **Technology:** GCP, Python, FastAPI, Next.js
 
 2. **CyberSecurity**
    - **Technology:** Python, FastAPI, Next.js
 
-### 📅 Working on Content Creation About Project Management (updates in August 2024)
+### 📅 Working on Content Creation About Project Management
