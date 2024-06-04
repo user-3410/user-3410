@@ -60,7 +60,7 @@ This is my path:
 
 ### 🧩 Consulting (2018-2020)
 
-1. **Data Analyst:** Dashboards for marketing data
+1. **Data Analyst and Process Analyst:** Dashboards for marketing data, data collection
    - **Technology:** Excel, PowerBI, R, Python 📈
 
 ### 🏛️ Public Sector (2016-2019)
