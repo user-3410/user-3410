@@ -64,12 +64,13 @@ This is my path:
    - **Technology:** Excel, PowerBI, R, Pytho
 
 ## 🏛️ Public Sector (2016-2019)
+
 ## Supreme Court:
 
 1. **Software Engineer:** Application for the reception and tracking of criminal complaints (2019)
    - **Technology:** Laravel, Vue.js, MySQL
 
-# Previous side projects in Supreme Court:
+### Previous side projects in Supreme Court:
 
 1. **Software Engineer:** WebApp for managing documents related to ISO 9001 quality certification (2018)
    - **Technology:** Django, PostgreSQL
