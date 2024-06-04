@@ -39,44 +39,44 @@ This is my path:
 ### 🌾 AgroTech Industry (2023)
 
 1. **Software Engineer:** Desktop app for satellite image analysis
-   - **Technology:** Python, PyQT, OpenCV 
+   - **Technology:** Python, PyQT, OpenCV, Docker, GitLab, Scrum
 
 2. **Software Engineer:** Desktop app for satellite data analysis
-   - **Technology:** Python, PostgreSQL, AWS, Tkinter
+   - **Technology:** Python, PostgreSQL, AWS, Tkinter, Docker, GitLab, Scrum
 
 3. **Software Engineer:** API for satellite data uploading and processing
-   - **Technology:** Python, FastAPI, PostgreSQL, AWS
+   - **Technology:** Python, FastAPI, PostgreSQL, AWS, GitLab, Scrum
 
 4. **Software Engineer:** API for data cleaning
-   - **Technology:** Symfony, PostgreSQL
+   - **Technology:** Symfony, PostgreSQL, Docker, GitLab, Scrum
 
 ### 💼 BigFour Consulting Agency (2021-2022)
 
 1. **Software Engineer:** Payment processing software for an energy sector company
-   - **Technology:** Django REST, PostgreSQL, Angular
+   - **Technology:** Django REST, PostgreSQL, Angular, Azure, GitHub, Scrum
 
 2. **Software Engineer:** SaaS for logistics sector data analysis
-   - **Technology:** Django REST
+   - **Technology:** Django REST, Azure, Docker, GitHub, Scrum
 
 ### 🧩 Consulting (2018-2020)
 
 1. **Data Analyst and Process Analyst:** Dashboards for marketing data, data collection
-   - **Technology:** Excel, PowerBI, R, Pytho
+   - **Technology:** Excel, PowerBI, R, Python
 
 ## 🏛️ Public Sector (2016-2019)
 
 ## Supreme Court:
 
 1. **Software Engineer:** Application for the reception and tracking of criminal complaints (2019)
-   - **Technology:** Laravel, Vue.js, MySQL
+   - **Technology:** Laravel, Vue.js, MySQL, GitHub, Scrum
 
 ### Previous side projects in Supreme Court:
 
 1. **Software Engineer:** WebApp for managing documents related to ISO 9001 quality certification (2018)
-   - **Technology:** Django, PostgreSQL
+   - **Technology:** Django, PostgreSQL, GitHub
 
 2. **Data Analyst:** Database integration and analysis for investigations related to money laundering, fraud and financial crimes (2018)
-   - **Technology:** MySQL, Python
+   - **Technology:** MySQL, Python, GitHub
 
 3. **Data Analyst:** Financial Budget Planning Dashboards (2017)
    - **Technology:** MySQL, PHP, JavaScript
