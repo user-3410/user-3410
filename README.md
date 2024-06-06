@@ -7,7 +7,7 @@ This is my path:
 # 🚀 Professional Experience as an IT Developer
 
 ## 📚 Index
-1. [Freelance Applications](#freelance-applications)
+1. [Freelance Apps](#freelance-apps)
 2. [In Companies](#in-companies)
    - [AgroTech Industry](#agrotech-industry)
    - [BigFour Consulting Agency](#bigfour-consulting-agency)
@@ -17,7 +17,7 @@ This is my path:
    - [Working on My Own Apps and Projects](#working-on-my-own-apps-and-projects)
    - [Working on Content Creation About Project Management](#working-on-content-creation-about-project-management)
 
-## Freelance Applications
+## Freelance Apps
 
 1. **Data Analyst:** Dashboards with PowerBI for sales analysis (2020)
    - **Technology:** PowerBI, MySQL
