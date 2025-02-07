@@ -9,6 +9,7 @@ This is my path:
 ## 📚 Index
 1. [Freelance Apps](#freelance-apps)
 2. [In Companies](#in-companies)
+   - [Pharmaceutical Company](#pharma-industry)
    - [AgroTech Industry](#agrotech-industry)
    - [BigFour Consulting Agency](#bigfour-consulting-agency)
    - [Consulting](#consulting)
@@ -35,6 +36,11 @@ This is my path:
    - **Technology:** Python, PostgreSQL, FastAPI
 
 ## In Companies
+
+### 🌾 Pharma Industry (2024)
+
+1. **Software Engineer:** Semantic Search of Clinical Trial and Pharma Teams
+   - **Technology:** Python, FastAPI, Openshift, Opensearch, AWS, BitBucket, DevOps, Scrum
 
 ### 🌾 AgroTech Industry (2023)
 
