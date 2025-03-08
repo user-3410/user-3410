@@ -32,7 +32,7 @@ This is my path:
 4. **Project Manager:** Company management app for Real Estate (2023)
    - **Technology:** Flask, Python, PostgreSQL
 
-5. **Software Engineer:** Data analysis and integration app for the insurance sector (current project as freelancer)
+5. **Software Engineer:** Data analysis and integration app for the insurance sector (2024)
    - **Technology:** Python, PostgreSQL, FastAPI
 
 ## In Companies
