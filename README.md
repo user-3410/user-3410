@@ -39,7 +39,7 @@ This is my path:
 
 ### 🌾 Pharma Industry (2024)
 
-1. **Software Engineer:** Semantic Search of Clinical Trial and Pharma Teams
+1. **Software Engineer and Solutions Architect:** Semantic Search of Clinical Trial and Pharma Teams
    - **Technology:** Python, FastAPI, Openshift, Opensearch, AWS, BitBucket, DevOps, Scrum
 
 ### 🌾 AgroTech Industry (2023)
