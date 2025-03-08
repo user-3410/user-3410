@@ -23,7 +23,7 @@ This is my path:
 1. **Data Analyst:** Dashboards with PowerBI for sales analysis (2020)
    - **Technology:** PowerBI, MySQL
 
-2. **Software Architect:** Data processing app for the tourism sector (2024)
+2. **Software Architect:** Data processing app for the tourism sector (2021)
    - **Technology:** Django, PostgreSQL
 
 3. **Software Engineer:** Web scraping app (2021)
