@@ -9,12 +9,13 @@ This is my path:
 ## 📚 Index
 1. [Freelance Apps](#freelance-apps)
 2. [In Companies](#in-companies)
+   - [Pharmaceutical Company](#travel-industry)
    - [Pharmaceutical Company](#pharma-industry)
    - [AgroTech Industry](#agrotech-industry)
    - [BigFour Consulting Agency](#bigfour-consulting-agency)
    - [Consulting](#consulting)
    - [Public Sector](#public-sector)
-3. [Current Projects](#current-projects)
+4. [Current Projects](#current-projects)
    - [Working on My Own Apps and Projects](#working-on-my-own-apps-and-projects)
    - [Working on Content Creation About Project Management](#working-on-content-creation-about-project-management)
 
@@ -42,7 +43,7 @@ This is my path:
 1. **Software Engineer:** Maintaining internal applications
    - **Technology:** Python, Django, Falcon, MongoDB, PostgreSQL, Azure, Scrum
 
-### 🌾 Pharma Industry (2024)
+### 💊 Pharma Industry (2024)
 
 1. **Software Engineer and Solutions Architect:** Semantic Search of Clinical Trial and Pharma Teams
    - **Technology:** Python, FastAPI, Openshift, Opensearch, AWS, BitBucket, DevOps, Scrum
