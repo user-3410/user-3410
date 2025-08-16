@@ -37,7 +37,7 @@ This is my path:
 
 ## In Companies
 
-### 🌾 Travel Industry (2025)
+### ✈️ Travel Industry (2025)
 
 1. **Software Engineer:** Maintaining internal applications
    - **Technology:** Python, Django, Falcon, MongoDB, PostgreSQL, Azure, Scrum
