@@ -37,6 +37,11 @@ This is my path:
 
 ## In Companies
 
+### 🌾 Travel Industry (2025)
+
+1. **Software Engineer:** Maintaining internal applications
+   - **Technology:** Python, Django, Falcon, MongoDB, PostgreSQL, Azure, Scrum
+
 ### 🌾 Pharma Industry (2024)
 
 1. **Software Engineer and Solutions Architect:** Semantic Search of Clinical Trial and Pharma Teams
@@ -94,10 +99,5 @@ This is my path:
 
 ### 🌟 Working on My Own Apps and Projects (updates in August 2024)
 
-1. **GenAI (Ask for a demo)**
+1. **GenAI**
    - **Technology:** GCP, Python, FastAPI, Next.js
-
-2. **CyberSecurity**
-   - **Technology:** Python, FastAPI, Next.js
-
-### 📅 Working on Content Creation About Project Management
