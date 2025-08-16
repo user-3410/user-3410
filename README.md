@@ -101,3 +101,7 @@ This is my path:
 
 1. **GenAI**
    - **Technology:** GCP, Python, FastAPI, Next.js
+
+## Status:
+
+👉 Currently focused on Software Architecture, MCP, and the development of applications with LLM agents.
