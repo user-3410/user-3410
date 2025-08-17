@@ -76,3 +76,5 @@ At this point you might realize that writing a prompt can be complex. Wouldn't i
 
 ## Working with Schemas
 Using structured JSON as an output is a great solution, as we've seen multiple times in this paper. But what about input? While JSON is excellent for structuring the output the LLM generates, it can also be incredibly useful for structuring the input you provide.
+
+Prompt Engineering by Lee Boonstra
