@@ -1,5 +1,5 @@
-# Candidate Questions to Evaluate the Team
-🎯 **Objective:** Assess if the team and company are a good fit for you
+## My Questions to Evaluate the Team
+🎯 **Objective:** Assess if the team and company are a good fit for me
 
 ## 1. Team Technical Maturity
 
