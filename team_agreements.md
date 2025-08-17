@@ -1,4 +1,4 @@
-# Team Working Agreements
+## My Working Agreements
 
 ## 1. Technical Governance and Roles
 
@@ -23,6 +23,8 @@
 - Require documented consensus among technical leads
 - Escalation process to technical committee if no consensus within 5 business days
 - All decisions must be recorded as ADRs (Architecture Decision Records)
+- Checklists for PR review
+- Checklists for DEV, QA, and PROD deployment
 
 ## 2. Development Standards and Quality
 
@@ -48,8 +50,8 @@
 
 ### 2.2 Code Review Process
 
-#### SLA and Format
-- **Review SLA:** Maximum 48 business hours
+#### Service Level Agreement and Format
+- **Review Service Level Agreement:** Maximum 48 business hours
 - **Feedback format:** Constructive, specific, and actionable
 - **Communication:** When creating a PR, developer must inform reviewers explaining the changes made
 
@@ -61,7 +63,7 @@ A PR can only be rejected for:
 - Scalability problems
 - Lack of documentation
 
-**Important note:** Code style rejections must be justified and should not introduce unnecessary delays. If code solves a critical user-impacting problem, it should be deployed while minor aspects are refined.
+**Important note:** Code style rejections must be justified and should not introduce unnecessary delays. If code solves a critical user-impacting problem, security or efficiency, it should be deployed while minor aspects are refined.
 
 #### Required Approvals
 1. **Mandatory:** 1 approval from component owner
@@ -97,7 +99,7 @@ A PR can only be rejected for:
 - **Mandatory prior notification:** Include agenda and topics to be discussed
 - **Camera mandatory:** Keep camera on during all meetings
 - **Objective:** Facilitate productive and focused discussions
-- **Professional focus:** Work matters only, avoid personal topics
+- **Professional focus:** Work matters only, avoid personal topics and jokes
 
 #### Communication Style
 Given the multicultural nature of the team, a uniform communication style is established:
@@ -105,7 +107,7 @@ Given the multicultural nature of the team, a uniform communication style is est
 - **Assertiveness:** Express ideas and opinions directly but respectfully
 - **Confirmation:** Request confirmation of understanding when dealing with complex topics
 - **Patience:** Allow additional time for clarifications when necessary
-- **Documentation:** Follow up important conversations with written summaries to avoid misunderstandings
+- **Documentation:** Follow up important conversations with written summaries to avoid misunderstandings. Use AI.
 
 ## 4. Work Planning and Management
 
@@ -159,7 +161,3 @@ Given the multicultural nature of the team, a uniform communication style is est
 - **Mandatory documentation:** For all architectural decisions
 - **Pair programming:** Minimum 2 hours weekly between different components
 - **Task rotation:** Quarterly to improve complete system understanding
-
----
-
-*These agreements will be reviewed quarterly and updated based on team needs and lessons learned.*
