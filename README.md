@@ -7,17 +7,19 @@ This is my path:
 # 🚀 Professional Experience as an IT Developer
 
 ## 📚 Index
-1. [Freelance Apps](#freelance-apps)
-2. [In Companies](#in-companies)
-   - [Travel Industry](#travel-industry)
-   - [Pharmaceutical Company](#pharma-industry)
-   - [AgroTech Industry](#agrotech-industry)
-   - [BigFour Consulting Agency](#bigfour-consulting-agency)
-   - [Consulting](#consulting)
-   - [Public Sector](#public-sector)
-4. [Current Projects](#current-projects)
-   - [Working on My Own Apps and Projects](#working-on-my-own-apps-and-projects)
-   - [Working on Content Creation About Project Management](#working-on-content-creation-about-project-management)
+1. Experience:
+   1. [Freelance Apps](#freelance-apps)
+   2. [In Companies](#in-companies)
+      - [Travel Industry](#travel-industry)
+      - [Pharmaceutical Company](#pharma-industry)
+      - [AgroTech Industry](#agrotech-industry)
+      - [BigFour Consulting Agency](#bigfour-consulting-agency)
+      - [Consulting](#consulting)
+      - [Public Sector](#public-sector)
+   4. [Current Projects](#current-projects)
+      - [Working on My Own Apps and Projects](#working-on-my-own-apps-and-projects)
+2. [My questions to evaluate the team](#my-questions-to-evaluate-the-team)
+3. [My Working Agreements](#my-working-agreements)
 
 ## Freelance Apps
 
@@ -109,8 +111,8 @@ This is my path:
 
 -------------------------------------------------------------------------------------------------------------
 
-# My Questions to Evaluate the Team
-🎯 **Objective:** Assess if the team and company are a good fit for you
+## My Questions to Evaluate the Team
+🎯 **Objective:** Assess if the team and company are a good fit for me
 
 ## 1. Team Technical Maturity
 
@@ -159,9 +161,11 @@ This is my path:
 - How do you implement security by design? Are there regular audits?
 - What tools do you use for monitoring and observability?
 
+
 ---------------------------------------------------------------------------------------------------
 
-# My Working Agreements
+
+## My Working Agreements
 
 ## 1. Technical Governance and Roles
 
