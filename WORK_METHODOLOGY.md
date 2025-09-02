@@ -5,6 +5,8 @@ Clear, direct, and precise communication. Short, focused meetings, always suppor
 
 According to the 16Personalities test, I match the **Mediator (INFP)** profile, which aligns with my tendency toward empathy, adaptability, and value-driven problem solving. This balance allows me to combine logical and literal thinking with a strong sense of collaboration and creativity.
 
+While this is my preferred way of working, I adapt to the team’s dynamics as long as system stability is not compromised and best practices are followed.
+
 ## New Solution Implementation Process
 
 1. **Analyze the problem** and gather all relevant information.  
