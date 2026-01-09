@@ -19,7 +19,6 @@ This is my path:
    4. [Current Projects](#current-projects)
       - [Working on My Own Apps and Projects](#working-on-my-own-apps-and-projects)
 2. [My questions to evaluate the team](#my-questions-to-evaluate-the-team)
-3. [My Working Agreements](#my-working-agreements)
 
 ## Freelance Apps
 
