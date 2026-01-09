@@ -101,9 +101,12 @@ This is my path:
 
 ### 🌟 Working on My Own Apps and Projects (updates in August 2024)
 
-1. **GenAI**
-   - **Technology:** GCP, Python, FastAPI, Next.js
+1. **GenAI - Academic Research**
+   - **Technology:** GCP, Python, Go, React.js (Tailwind), Milvus, PostgreSQL
+   - **Stage:** Coding a validated MVP
 
-## Status:
+2. **Web App for Hiking and Emergency Management**
+   - **Technology:** Not defined yet
+   - **Stage:** System Design and research
 
 👉 Currently focused on Software Architecture, MCP, and the development of applications with LLM agents.
