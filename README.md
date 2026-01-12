@@ -10,8 +10,9 @@ This is my path:
 1. Experience:
    1. [Freelance Apps](#freelance-apps)
    2. [In Companies](#in-companies)
-      - [Travel Industry](#travel-industry)
       - [Pharmaceutical Company](#pharma-industry)
+      - [Travel Industry](#travel-industry)
+      - [Fintech Industry](#fintech-industry)
       - [AgroTech Industry](#agrotech-industry)
       - [BigFour Consulting Agency](#bigfour-consulting-agency)
       - [Consulting](#consulting)
@@ -48,6 +49,12 @@ This is my path:
 
 1. **Software Engineer and Solutions Architect:** Semantic Search of Clinical Trial and Pharma Teams
    - **Technology:** Python, FastAPI, Openshift, Opensearch, AWS, BitBucket, DevOps, Scrum
+   - 
+### 💼 Fintech Industry (2024)
+
+1. **Software Engineer:** Migrated data science algorithms from R to Python for credit scoring
+platform
+   - **Technology:** Python, FastAPI, R, Docker, MongoDB, PostgreSQL
 
 ### 🌾 AgroTech Industry (2023)
 
@@ -99,7 +106,7 @@ This is my path:
 
 ## Current Projects
 
-### 🌟 Working on My Own Apps and Projects (updates in August 2024)
+### 🌟 Working on My Own Apps and Projects
 
 1. **GenAI - Academic Research**
    - **Technology:** GCP, Python, Go, React.js (Tailwind), Milvus, PostgreSQL
